@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/SakneyDashboard/static/css/main.c72f5385.css",
+    "main.js": "/SakneyDashboard/static/js/main.ba7c9b9a.js",
+    "static/js/498.61f33552.chunk.js": "/SakneyDashboard/static/js/498.61f33552.chunk.js",
+    "static/js/703.f72372fe.chunk.js": "/SakneyDashboard/static/js/703.f72372fe.chunk.js",
+    "static/js/513.5b81c115.chunk.js": "/SakneyDashboard/static/js/513.5b81c115.chunk.js",
+    "index.html": "/SakneyDashboard/index.html",
+    "main.c72f5385.css.map": "/SakneyDashboard/static/css/main.c72f5385.css.map",
+    "main.ba7c9b9a.js.map": "/SakneyDashboard/static/js/main.ba7c9b9a.js.map",
+    "498.61f33552.chunk.js.map": "/SakneyDashboard/static/js/498.61f33552.chunk.js.map",
+    "703.f72372fe.chunk.js.map": "/SakneyDashboard/static/js/703.f72372fe.chunk.js.map",
+    "513.5b81c115.chunk.js.map": "/SakneyDashboard/static/js/513.5b81c115.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c72f5385.css",
+    "static/js/main.ba7c9b9a.js"
+  ]
+}
